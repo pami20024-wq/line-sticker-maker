@@ -1,0 +1,32 @@
+openai:
+  # OpenAI の現行高品質画像モデル。必要になった場合だけ変更してください。
+  model: gpt-image-2
+  quality: high
+  size: 1024x1024
+  retries: 5
+  retry_base_seconds: 2
+
+paths:
+  reference: reference.png
+  raw: raw_images
+  output: line_stickers
+
+image:
+  sticker_size: [370, 320]
+  main_size: [240, 240]
+  tab_size: [96, 74]
+  safe_margin: 12
+  max_file_bytes: 1048576
+  max_zip_bytes: 62914560
+  chroma_key: [0, 255, 0]
+  chroma_tolerance: 65
+
+text:
+  # null なら macOS/Linux の日本語フォントを自動検出します。
+  font_path: null
+  fill: [255, 255, 255, 255]
+  stroke_fill: [75, 28, 105, 255]
+  stroke_width: 5
+  max_font_size: 48
+  min_font_size: 20
+
