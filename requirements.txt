@@ -1,0 +1,7 @@
+openai>=1.109.0
+Pillow>=12.3.0,<13
+PyYAML>=6.0.2
+python-dotenv>=1.0.1
+pytest>=8.3.0
+# Apache-2.0. Pinned for reproducible chroma matting; see THIRD_PARTY_NOTICES.md.
+sprite-gen @ git+https://github.com/aldegad/sprite-gen.git@b058341f7543f3adcbea227bd4e6b7587895b1bc
