@@ -1,0 +1,25 @@
+- {id: '01', text: おはよう, action: 明るい笑顔で片手を振る}
+- {id: '02', text: おつかれさま, action: 少し疲れながら優しく微笑む}
+- {id: '03', text: ありがとう, action: 両手を胸の前で合わせて感謝する}
+- {id: '04', text: よろしく, action: 軽くお辞儀する}
+- {id: '05', text: OK！, action: 親指を立てる}
+- {id: '06', text: 了解！, action: 元気よく敬礼する}
+- {id: '07', text: はーい, action: 片手を高く上げる}
+- {id: '08', text: ごめんなさい, action: 申し訳なさそうに頭を下げる}
+- {id: '09', text: お願いします, action: 両手を合わせる}
+- {id: '10', text: おやすみ, action: 眠そうな表情}
+- {id: '11', text: またね, action: 笑顔で手を振る}
+- {id: '12', text: えっ！？, action: 驚いた表情}
+- {id: '13', text: すごい！, action: 目を輝かせる}
+- {id: '14', text: やったー！, action: 両手を上げて喜ぶ}
+- {id: '15', text: 笑, action: 楽しそうに笑う}
+- {id: '16', text: 泣, action: 涙を流す}
+- {id: '17', text: 怒, action: 頬を膨らませて怒る}
+- {id: '18', text: しょんぼり, action: 肩を落として落ち込む}
+- {id: '19', text: がんばって！, action: 拳を上げて応援する}
+- {id: '20', text: 無理しないでね, action: 心配そうな優しい表情}
+- {id: '21', text: いいね！, action: 親指を立てて笑う}
+- {id: '22', text: ちょっと待って, action: 手のひらを前に出す}
+- {id: '23', text: 今行きます！, action: 急いで走る}
+- {id: '24', text: ありがとうございます！, action: 深くお辞儀して感謝する}
+
